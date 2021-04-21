@@ -1,8 +1,7 @@
-Telegram JSON and HTML Parser
+elegram JSON and HTML Parser
 ------------------------------------------
 
-The idea of this script is to parse a JSON or HTML file generated from "BitNada-Results" telegram group with trading system results. The main idea is to extract fundamental 
-information in order to analyse whether the setups are profitable or not
+The idea of this script is to parse a JSON or HTML file generated from "BitNada-Results" telegram group with trading system results. The main idea is to extract relevant data to analyse whether the setup is profitable or not
 
 Main Functions:
 ---------

@@ -6,7 +6,7 @@ The main idea is to extract relevant data to analyse whether the setup is profit
 
 The script offers two options of output:
   - a new json file formatted with clear data from the trading system results (output-2021.json file will be generated on the project root)
-  - a reported with sorted by two groups: BTC or USDT currenct trading, monthly, take-profit levels, and so on.(see an example at end of this file)
+  - a reported with sorted by two groups: BTC or USDT currency trading, monthly, take-profit levels, and so on. (see an example at end of this file)
 
 
 Main Functions:
@@ -35,7 +35,7 @@ Instalation:
 3. py app.py (to generate the report)
 
 * before running app.py you have to upload the JSON file from "BitNada-Results" telegram group on the root directory named "result-2021.json". 
-The default installation already contains the result file from 01-01-2021 to publication date.
+The default installation already contains the result file from 01-01-2021 to publication the date.
 
 
 Report:
